@@ -1,7 +1,7 @@
 # global site settings
-title:        "Cards"
+title:        "Blog"
 email:        "jskyzero@outlook.com"
-description:  "A basic jekyll theme"
+description:  "Algorithm blog"
 logo:         "logo.png"
 url:          ""
 baseurl:      "/jekyll-theme-cards"
